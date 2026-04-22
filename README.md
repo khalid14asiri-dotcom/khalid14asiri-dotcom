@@ -3,7 +3,7 @@
 Welcome to my GitHub — my little personal space on the web.
 
 ## About Me
-- 🎓 **PhD in Marketing**
+- 🎓 **PhD Student in Marketing**
 - 🧠 Researcher in **Consumer Behavior** & **Financial Decision-Making**
 - 📊 I love using **data** to understand *why* consumers do what they do
 - 🔍 Curious about the intersection of psychology, marketing, and economics
